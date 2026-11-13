@@ -17,7 +17,6 @@ The analysis uses an Excel dataset containing 1,000 transaction records across 2
 ## Tools Used
 
 - Microsoft Power BI
-- Microsoft Excel
 
 ## Dataset
 
