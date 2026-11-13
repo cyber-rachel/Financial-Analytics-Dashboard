@@ -6,6 +6,16 @@ This project presents an interactive financial analytics dashboard developed in 
 
 The analysis uses an Excel dataset containing 1,000 transaction records across 2024 and 2025.
 
+## Dashboard Preview
+
+### Dashboard overview
+
+![HR Analytics Dashboard overview](images/dashboard_interactive.png)
+
+### Interactive filtering
+
+![HR Analytics Dashboard with filters](images/hr_dashboard_interactive.png)
+
 ## Objectives
 
 - Monitor overall revenue, expenses, and profit.
