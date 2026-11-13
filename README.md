@@ -10,11 +10,11 @@ The analysis uses an Excel dataset containing 1,000 transaction records across 2
 
 ### Dashboard overview
 
-![HR Analytics Dashboard overview](images/dashboard_interactive.png)
+![HR Analytics Dashboard overview](images/dashboard_overview.png)
 
 ### Interactive filtering
 
-![HR Analytics Dashboard with filters](images/hr_dashboard_interactive.png)
+![HR Analytics Dashboard with filters](images//dashboard_interactive.png)
 
 ## Objectives
 
